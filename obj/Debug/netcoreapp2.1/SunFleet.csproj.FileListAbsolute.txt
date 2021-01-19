@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\SunFleet\bin\Debug\netcoreapp2.1\SunFleet.deps.json
+C:\Users\Frans\Dropbox\Projects\SunFleet\bin\Debug\netcoreapp2.1\SunFleet.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\SunFleet\bin\Debug\netcoreapp2.1\SunFleet.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\SunFleet\bin\Debug\netcoreapp2.1\SunFleet.dll
+C:\Users\Frans\Dropbox\Projects\SunFleet\bin\Debug\netcoreapp2.1\SunFleet.pdb
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.csproj.CoreCompileInputs.cache
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.dll
+C:\Users\Frans\Dropbox\Projects\SunFleet\obj\Debug\netcoreapp2.1\SunFleet.pdb
